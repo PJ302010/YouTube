@@ -1,0 +1,27 @@
+#doreamon{
+    height: 330px;
+    width: 153px;
+}
+h1{
+color: red;
+height: 150;
+width: 60;
+}
+body{
+color: red;
+background-color: white;
+}
+#store{
+height: 50px;
+    width: 69;
+}
+#btn11:hover{
+    
+ cursor: pointer;
+}
+#btn11{
+width: 90px;
+height: 87px;
+color: white;
+background-color: black;
+}
